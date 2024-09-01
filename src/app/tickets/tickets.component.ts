@@ -72,6 +72,7 @@ export class TicketsComponent {
     this.newTicket.id = this.tickets.length + 1;
     console.log(this.newTicket)
     this.tickets.push(this.newTicket);
+    this.tickets = [...this.tickets];
     this.clearForm();
    // this.newTicket = new Ticket()
     console.log(this.tickets)
