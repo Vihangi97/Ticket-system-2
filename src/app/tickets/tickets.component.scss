@@ -1,0 +1,26 @@
+.tickets-container {
+  //margin: 20px;
+}
+
+mat-card {
+  margin-bottom: 20px;
+}
+
+.sidenav-container {
+  height: 100%;
+}
+
+.sidenav {
+  width: 200px;
+}
+
+.mat-toolbar.mat-primary {
+    background: blue;
+  position: sticky;
+  top: 0;
+  z-index: 2;
+}
+
+.content {
+  padding: 16px;
+}

@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\add-ticket-dialog",
+    "\\src\\app\\login",
+    "\\src\\app\\tickets"
+  ],
+  "SelectedNode": "\\src\\app\\tickets\\tickets.component.html",
+  "PreviewInSolutionExplorer": false
+}
